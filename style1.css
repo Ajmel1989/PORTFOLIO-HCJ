@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #weather-container {
+    width: 50%;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #location {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  #temperature {
+    font-size: 48px;
+    color: #007bff;
+  }
+  
+  #description {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  
